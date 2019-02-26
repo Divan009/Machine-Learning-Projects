@@ -9,3 +9,6 @@ Logistic Regression
 K Nearest Neighbour
 
 Kernel SVM
+
+Item Recommendation
+- using KNN and matrix factorization
