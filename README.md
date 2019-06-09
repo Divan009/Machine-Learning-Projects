@@ -1,4 +1,9 @@
 # Machine-Learning-Practices
+
+Lord of Machines
+- lordofmachines.py
+- lOMtextFeat.py
+
 Simple Linear Regression
 
 Multiple Linear Regression
